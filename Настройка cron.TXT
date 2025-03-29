@@ -21,7 +21,8 @@
   
   Примеры:
   
-  
-   %progdir%\modules\wget\bin\wget.exe -q --no-cache http://web/cron.php
-  
    %progdir%\modules\wget\bin\wget.exe -q -on-cache http://web/cron.php
+   
+не уверен в этом варианте.
+   %progdir%\modules\wget\bin\wget.exe -q --no-cache http://web/cron.php
+ 
